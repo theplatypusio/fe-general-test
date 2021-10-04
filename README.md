@@ -1,5 +1,5 @@
 
-The goal is to create an profile viewer in which you can easily browse through profiles showing information and a picture.
+The goal is to create a profile viewer in which you can easily browse through profiles showing information and a picture.
 
 *Key Features:*
 
