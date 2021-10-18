@@ -4,7 +4,7 @@ The goal is to create a profile viewer in which you can easily browse through pr
 *Key Features:*
 
 * The user should be able to use drag or swipe to browse through cards.
-* Use the Random user API to fetch the data and images you need. Api is here: https://randomuser.me/api/
+* Use the Random user API to fetch the data and images you need. Api is here: https://randomuser.me/api/, docs here: https://randomuser.me/documentation
 * The solution must be written in JavaScript or TypeScript using React.
 
 ## Evaluation
